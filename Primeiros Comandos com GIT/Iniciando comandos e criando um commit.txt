@@ -1,0 +1,2 @@
+Os Commits são as unidades estruturais de um cronogtama de projeto GIT. Podem ser considerados estantâneos ou marcos ao longo do cronograma de um projeto GIT.
+Criado para capturar o estado de um projeto naquele momento.

@@ -1,0 +1,8 @@
+SHA1 - A Sigla significa: Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera conjuntos de caracteres identificadores de 40 dígitos (únicos).
+Também é uma forma curta de representar um arquivo.
+
+Objetos internos no GIT
+Blods
+Trees
+Commits

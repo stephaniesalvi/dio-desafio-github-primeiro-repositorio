@@ -1,0 +1,2 @@
+SSH é uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas (chave pública e chave privada). A chave pública irá para o GitHub.
+

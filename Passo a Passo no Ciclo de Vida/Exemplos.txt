@@ -1,0 +1,14 @@
+TRACKED - Dentro do seu diretório de trabalho, o GIT identifica arquivos e/ou diretórios de 2 maneiras:
+Itens Rastreados (Tracked): Pode se dividir em 3 fases diferentes >
+Unmodified, modified e staged.
+Itens Não Rastreados (Untracked): GIT não tem ciência.
+
+Para que serve as 3 fases?
+
+Unmodified > Arquivo ainda não modificado;
+
+Modified > Arquivo modificado;
+
+Staged > Conceito chave (trabalha por trás).
+São arquivos que se preparam para fazer parte de outro tipo de agrupamento.
+
